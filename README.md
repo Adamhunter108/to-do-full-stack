@@ -20,10 +20,12 @@ Full-Stack To Do web app.  The backend is built with Python on the Django framew
 	`pipenv shell`
 * `cd` into project directory (manage.py) and start the Django development server:
 	`python3 manage.py runserver`
-* In a browser (preferably Google Chrome), navigate to:
+* In a browser navigate to:
 	`http://localhost:8000/`
 ###### `Frontend:`
 * `cd` into the frontend directory and install developer dependencies:
 	`npm install`
 * Start the React development server:
 	`npm start`
+* In a browser navigate to:
+	`http://localhost:3000/`
