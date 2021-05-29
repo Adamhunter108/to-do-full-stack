@@ -1,0 +1,9 @@
+/*To customize Bootstrap, create a file called src/custom.scss (or similar) and import the Bootstrap source stylesheet. Add any overrides before the imported file(s). You can reference Bootstrap's documentation for the names of the available variables.
+remember to import to src/index.js*/
+
+/*Override default variables before the import*/
+$body-bg: #000;
+
+/*Import Bootstrap and its default variables*/
+@import '~bootstrap/scss/bootstrap.scss';
+
