@@ -18,7 +18,7 @@ Full-Stack To Do web app.  The backend is built with Python on the Django framew
 	`pipenv install --dev`
 * Activate the virtual environment:
 	`pipenv shell`
-* `cd` into project directory (manage.py) and start the Django development server:
+* `cd` into backend directory (manage.py) and start the Django development server:
 	`python3 manage.py runserver`
 * In a browser navigate to:
 	`http://localhost:8000/`
